@@ -5,4 +5,4 @@ and visual summary of these criteria through illustrative examples while providi
 I provide 18 models that ilustrate the problem of "bad controls" when adding varables to a regression and wether it helps
 getting estimates closer to the parameter of interest.
 
-Note: if the DAGs are not visible you might try runnin in Google Colab.
+Note: if the DAGs are not visible you might try running it in Google Colab.
