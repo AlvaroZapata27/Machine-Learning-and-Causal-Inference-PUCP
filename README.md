@@ -10,6 +10,9 @@ getting estimates closer to the parameter of interest.
 Note: if the DAGs are not visible you might try running it in Google Colab.\
 
 Folder : Reports\
-Here you will find the reports of the academic papers i read during the semester. The report is a small resume from work of important authors that cover themes such as High dimmensional data problems, inferencial causality, double Machine Learningand Causal Forest.
+Here you will find the reports of the academic papers i read during the semester. The report is a small resume from work of important authors that cover themes such as High dimmensional data problems, inferencial causality, double Machine Learning and Causal Forest.
+
+Folder: Group Works\
+Here you will find the works and paper replications we elaborated during the semester. The codes are in a Jupyter Notebook and mostly written in 3 code languages: Python, R and Julia.
 
 Future work will be upload.
