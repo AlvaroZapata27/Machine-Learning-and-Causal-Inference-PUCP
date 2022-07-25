@@ -1,5 +1,5 @@
 # Content
-Here I will post my Reports and Notebooks from the course Machine Learning and Causal Inference which i took the 2022-1 semester in PUCP.
+Here I will post my Reports and Notebooks from the course Machine Learning and Causal Inferencefrom the 2022-1 semester in PUCP.
 
 ### Folder : Good and Bad Controls\
 This is a replication of the directed acyclic graphs (DAGs) from the paper "A Crash Course in Good and Bad Controls" by Cinelli, Forney and Pearl (2022). The purpose of this note is to provide practicing analysts a concise, simple,
